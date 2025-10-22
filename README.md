@@ -10,11 +10,11 @@ These are the languages I'm confident in and use regularly for frontend (mostly)
   </a>
 </p>
 
-## _Slightly Known Languages:_
+## _Slightly Known Languages (+ tools and technologies):_
 I'm somewhat **familiar** with these:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,cpp,python,jquery" />
+    <img src="https://skillicons.dev/icons?i=php,cpp,python,unity,blender,dotnet,sketchup,jquery" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ I'm somewhat **familiar** with these:
 Tools and frameworks I **know how to use** at any time:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,visualstudio,idea,dotnet,supabase,postgres,bitbucket,netlify,bootstrap,wordpress" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,idea,supabase,postgres,bitbucket,netlify,bootstrap,wordpress" />
   </a>
 </p>
 
