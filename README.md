@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @mateuszfolek
 
-```Welcome to my GitHub profile ☕ I'm a passionate programmer constantly tuning my skills in a technical school as a programming-technician. I love exploring new technologies and I am constantly trying to properly acquire new skills 🎯```
+```Welcome to my GitHub profile ☕ I'm a passionate programmer constantly tuning my skills in a technical school as a programming-technician (**currently in third class**). I love exploring new technologies and I am constantly trying to properly acquire new skills 🎯```
 
 ## _Mastered Languages:_
 These are the languages I'm confident in and use regularly for frontend (mostly) :
@@ -40,6 +40,6 @@ Tools and frameworks I **know how to use** at any time:
 - I would be **interested in collaborating** in some projects (Looking to collaborate lately).
 
 ## Need something? Let me know right here!
-- LinkedIn: _**Soon!**_
+- LinkedIn: **[Click me! (in progress)](https://www.linkedin.com/in/mateusz-folek-196b083a7/)**
 - Email: **mfolek59@gmail.com**
 - Messenger: **[Click me!](https://m.me/MateuszFolek08)**
