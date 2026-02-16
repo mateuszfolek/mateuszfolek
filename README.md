@@ -42,4 +42,4 @@ Tools and frameworks I **know how to use** at any time:
 ## Need something? Let me know right here!
 - LinkedIn: **[Click me! (in progress)](https://www.linkedin.com/in/mateusz-folek-196b083a7/)**
 - Email: **mfolek59@gmail.com**
-- Messenger: **[Click me!](https://m.me/MateuszFolek08)**
+- Messenger: **[Click me!](https://m.me/MateuszFolek.08)**
