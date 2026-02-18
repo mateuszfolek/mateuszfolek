@@ -3,7 +3,7 @@
 ```Welcome to my GitHub profile ☕ I'm a passionate programmer constantly tuning my skills in a technical school as a programming-technician (**currently in third class**). I love exploring new technologies and I am constantly trying to properly acquire new skills 🎯```
 
 ## _Mastered Languages:_
-These are the languages I'm confident in and use regularly for frontend (mostly) :
+These are the languages I'm confident in and use regularly for frontend:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
